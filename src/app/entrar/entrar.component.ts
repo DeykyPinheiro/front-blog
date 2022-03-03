@@ -38,6 +38,6 @@ export class EntrarComponent implements OnInit {
 				alert("usuario ou senha incorretos");
 			}
 		})
-	}
+}
 
 }
